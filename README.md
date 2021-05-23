@@ -1,4 +1,4 @@
-# CoWIN Vaccination Slot Booking Script
+# CoWIN Vaccination Slot Booking Python Script
 
 ### Usage:
 
